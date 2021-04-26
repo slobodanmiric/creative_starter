@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,700|Poppins&display=swap");
+:root {
+    --gray: #3A4454;  /*rgb(58, 68, 84)*/
+    --violet: #6B4E71; /* rgb(107, 78, 113)*/
+    --white: #fff;
+    --black: #000;
+    --lightgray: #b3b3b3;
+    --navBck:#dbc5cf; /*rgb(219, 197, 207)*/
+    --fontSize: 16px;
+    --transition: .5s;
+}
+/*************************
+Basic styles
+*************************/
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: var(--fontSize);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Josefin Sans", serif;
+}
+
+
+/*hr{
+  width: 30%;
+  border: none;
+  height: 4px;
+  background: var(--gray);
+}
+
+.button{
+  padding: 10px 20px;
+  background:var(--violet);
+  color:var(--white);
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.button:hover{
+  background:var(--black);
+  color:var(--violet);
+  transition:var(--transition);
+}*/
+
+/*************************
+nav
+*************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*************************
+RESPONSIVE
+*************************/
+@media(max-width: 768px){
+
+    
+
+
+}
